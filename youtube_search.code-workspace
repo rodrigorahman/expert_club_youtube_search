@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "youtube_search_mobile"
+		},
+		{
+			"path": "youtube_search_business"
+		},
+		{
+			"path": "youtube_search_web"
+		}
+	],
+	"settings": {}
+}
